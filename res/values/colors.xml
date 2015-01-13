@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="opaque_red">#f00</color>
+   <color name="RED">#FF0000</color>
+   	<color name="GREEN">#ff00ff00</color>
+	<color name="MAG">#ffff00ff</color>
+	<color name="YELLOW">#ffffff00</color>
+</resources>
